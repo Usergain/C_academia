@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669122495 source:c:\tmp\arkaitz\modulo2_ejer8\main.cpp
+	<iostream>
+	<string.h>
+
