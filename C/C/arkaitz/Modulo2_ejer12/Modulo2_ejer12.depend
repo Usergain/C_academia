@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1669802199 source:c:\tmp\arkaitz\modulo2_ejer12\main.cpp
-	<iostream>
-	<conio.h>
-	<stdlib.h>
-	<time.h>
-
