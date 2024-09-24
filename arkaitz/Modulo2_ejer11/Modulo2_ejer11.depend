@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1669283010 source:\\192.168.9.151\almacenamiento\arkaga\c\arkaitz\modulo2_ejer11\main.cpp
+	<iostream>
+
+1669723517 source:c:\tmp\arkaitz\modulo2_ejer11\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+
